@@ -7,6 +7,4 @@ console.log(firstName.length)
 console.log(firstName.endsWith('you'))
 console.log(firstName.indexOf('nimer'))
 console.log(firstName.lastIndexOf('a'))
-
-git.config global user.email "nsoccer2009@gmail.com"
-git.config global user.name "nimeralmashni"
+// new change
