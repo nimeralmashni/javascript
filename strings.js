@@ -7,5 +7,5 @@ console.log(firstName.length)
 console.log(firstName.endsWith('you'))
 console.log(firstName.indexOf('nimer'))
 console.log(firstName.lastIndexOf('a'))
-let git= "git hub works"
-console.log(git)
+console.log("git hub works")
+
