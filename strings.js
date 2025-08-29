@@ -7,4 +7,4 @@ console.log(firstName.length)
 console.log(firstName.endsWith('you'))
 console.log(firstName.indexOf('nimer'))
 console.log(firstName.lastIndexOf('a'))
-// new change
+// new change 123
